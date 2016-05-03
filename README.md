@@ -1,6 +1,4 @@
-# PROJECT_NAME
-
-PROJECT_DESCRIPTION
+# Since
 
 ## Running the project
 
